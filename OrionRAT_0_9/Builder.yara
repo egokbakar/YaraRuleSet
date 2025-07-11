@@ -1,5 +1,5 @@
 import "pe"
-import "math
+import "math"
 rule OrionRAT_0_9
 {
     meta:
