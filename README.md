@@ -17,15 +17,15 @@ The full product includes **93 RAT builder detection rules** with comprehensive 
 
 ### 🗂 Full Package Contents
 The full package contains detection rules and analysis for the following RAT builders:
- A_311_Death_v0_99_8          NanoCore_1_0_3_0
- A_311_Death_v1_00_A          NanoCore_1_2_2_0
- A_311_Death_v1_02            NanoCore_RAT_Beta
- A7m3d_Rat_v_0_1_Beta         NetAngel_v1_0
- A7m3d_Rat_v_2_0_0_Beta       OrionRAT_0_9
- Acropolis_1_0                Pandora_RAT_v1_1
- AK47_RAT                     santi_RAT
- Almjhool_1_1                 SharpEye_Rat_1_0_Beta_1
- Alusinus_RAT_v0_1            SilentSpy_2_0
+ A_311_Death_v0_99_8,          NanoCore_1_0_3_0,
+ A_311_Death_v1_00_A,          NanoCore_1_2_2_0,
+ A_311_Death_v1_02,            NanoCore_RAT_Beta,
+ A7m3d_Rat_v_0_1_Beta,         NetAngel_v1_0,
+ A7m3d_Rat_v_2_0_0_Beta,       OrionRAT_0_9,
+ Acropolis_1_0,                Pandora_RAT_v1_1,
+ AK47_RAT,                     santi_RAT,
+ Almjhool_1_1,                 SharpEye_Rat_1_0_Beta_1,
+ Alusinus_RAT_v0_1,            SilentSpy_2_0,
  Alusinus_RAT_v0_3            Silentspy_2_01
  Alusinus_RAT_v0_6            SilentSpy_2_10
  Alusinus_RAT_v0_9            Sinique_1_0
