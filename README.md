@@ -1,21 +1,25 @@
-# RAT Builder Analysis Package
+# RAT Builder Detection – YARA Rules with CAPA/DIE Reports
 
-This repository contains YARA rules and detailed static analysis reports for a collection of Remote Access Trojan (RAT) builders.  
+This repository provides a **demo** of YARA rules for detecting Remote Access Trojan (RAT) builders, along with static analysis outputs from **CAPA** and **DIE** in JSON format.
 
-## 📁 Folder Structure
+## 📂 Repository Overview
+Each folder contains:
+- `Builder.yara` – Variant-specific detection rule
+- `CAPA/` – CAPA static analysis report (`*.json`)
+- `DIE/` – PE structure and metadata report (`*.json`)
 
-Each folder represents a different RAT builder and contains:
+⚠️ **Note:**  
+Sample binaries are **not included** for security reasons. Instead, MD5 hashes are used as folder names for reference.
 
-- `Builder.yara` – Variant-specific YARA detection rule.
-- `CAPA/` – Static analysis results (JSON format) for the builder sample.
-- `DIE/` – PE structure and metadata (JSON format) for the builder sample.
+## 📦 Full Product
+This GitHub repository is **only a demo**.  
+The full product includes **93 RAT builder detection rules** with comprehensive CAPA/DIE analysis.  
 
-⚠️ **NOTE:**  
-For security reasons, the original malware samples are **NOT included** in this repository. Instead, their **MD5 hashes** are used as filenames in the `CAPA` and `DIE` reports to identify which sample was analyzed.
+For inquiries or access to the full package, contact:  
+📧 **egokbakar@protonmail.com**
 
-## 🔐 Sample Exclusion
-
-The actual builder binaries have been excluded to avoid misuse. Reports and rules were generated from verified samples in a controlled environment.  
+## 🔑 License
+See `LICENSE.md` for usage terms and ownership information.
 
 ---
 
